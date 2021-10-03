@@ -5,4 +5,4 @@ It has been inspired by the website Kayn made for Xie Lian as a compliment: http
 Please check it out, it is very beautiful.
 
 Here is a preview of the website
-![preview of the webpage](Hua%20Cheng_page0001.jpg)
+![preview of the webpage](Hua%20Cheng_page-0001.jpg)
