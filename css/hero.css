@@ -46,10 +46,9 @@ main{
 blockquote{
     text-align: center;
     color:crimson;
-    font-size: 30px;
+    font-size: 20px;
     font-family: 'Rubik', sans-serif;
     font-weight: 600;
-    margin: auto 60px;
 }
 
 main img{
