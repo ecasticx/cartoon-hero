@@ -63,7 +63,7 @@ main img{
 h2{
     font-size: 40px;
     color: crimson;
-    margin: 40px 0 10px;
+    margin: 50px 5px 10px;
 }
 
 a{
@@ -95,6 +95,6 @@ footer a:hover{
 
 p.caption{
     color:rgb(175, 175, 175);
-    margin: 0;
+    margin: 5px;
     text-align: center;
 }
